@@ -94,6 +94,7 @@ Alternatively, you can make your own simulations with a local network. To spin u
 
 ```bash
 npx hardhat node
+rinkeby test network
 ```
 
 On another console, deploy the contracts to the network:
