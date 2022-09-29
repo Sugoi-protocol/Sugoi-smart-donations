@@ -1,6 +1,6 @@
 #To-do
--Specific Time-stamps.
--Show specific Time-stamps to the user.
+Specific Time-stamps.
+Show specific Time-stamps to the user.
 
 -Add Aave Network (Not needed initially as it's working incredibly well with Compound, but there could be a pool with all of the altogether)
 
