@@ -5,14 +5,13 @@ Smart Donations is a Smart Contract to disburse your Interest earned by investin
 # Table of Contents
 
 - [Description](#description)
-- [Contracts](#contracts)
 - [Prerequisites](#prerequisites)
 - [Getting started](#getting-started)
 - [Usage](#usage)
 - [Interfaces](#interfaces)
 - [Gas Report](#gas-report)
 - [Credits](#credits)
-- [License](#license)
+
 
 # Description
 
@@ -211,7 +210,3 @@ This software uses the following open source projects:
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
 - [ethers.js](https://github.com/ethers-io/ethers.js/)
 - [Compound Protocol](https://compound.finance/)
-
-# License
-
-[MIT](https://choosealicense.com/licenses/mit/)
