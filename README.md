@@ -1,3 +1,10 @@
+#To-do
+-Specific Time-stamps.
+-Show specific Time-stamps to the user.
+
+-Add Aave Network (Not needed initially as it's working incredibly well with Compound, but there could be a pool with all of the altogether)
+
+
 # Smart Donations
 
 Smart Donations is a Smart Contract to disburse your Interest earned by investing in Pools to generate yield for you and chosen NGOs, written in Solidity.
@@ -29,7 +36,7 @@ Entry point to the contracts, acting as controller. It allows donors to invest E
 
 ## TrustedNGOsManager
 
-Manager of the trusted NGOs. Currently executed by an owner, who can add, enable and disable NGOs. In the future, it could be upgraded to a DAO with a governance token to manage NGOs.
+Manager of the trusted NGOs. Currently executed by an owner, who can add, enable and disable NGOs. In the future, it could be upgraded to a DAO with a governance token to manage NGOs or Sugoi Gamification.
 
 ## InvestmentPool
 
